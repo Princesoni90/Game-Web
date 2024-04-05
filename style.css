@@ -114,8 +114,7 @@ img{
     .box{
         gap:1.4em;
         height: 30vh;
-        width: 70vw;
-        border :2px solid white
+        width: 70vw;
     }
 
     .name{
