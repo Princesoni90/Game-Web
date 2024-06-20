@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #474869;  
+    color: aliceblue;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+    margin-top: 2em;
+}
+
+#board {
+    background-color: black;
+    margin-top: 2em;
+}
